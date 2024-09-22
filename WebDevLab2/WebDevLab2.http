@@ -1,0 +1,6 @@
+@WebDevLab2_HostAddress = http://localhost:5195
+
+GET {{WebDevLab2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
